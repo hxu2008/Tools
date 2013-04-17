@@ -1,2 +1,3 @@
-winxin-api-debugtool
+微信公众平台 API 调试工具
+
 ====================
